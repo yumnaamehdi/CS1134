@@ -1,2 +1,0 @@
-#hello.py
-import ctypes
